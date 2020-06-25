@@ -1,4 +1,4 @@
-CSSI Day 3 - Flip the Switch
+CSSI Day 2 - DVD Logo
 =================
 
 Your Project
