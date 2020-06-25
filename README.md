@@ -1,4 +1,4 @@
-CSSI Day 2 - DVD Logo
+CSSI Day 1 - Olympic Rings
 =================
 
 Your Project

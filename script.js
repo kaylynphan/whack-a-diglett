@@ -1,18 +1,20 @@
 // Name any p5.js functions we use in `global` so Glitch can recognize them.
 /* global
- *    background, createCanvas, height, image, loadImage, width
+ *    background, createCanvas, ellipse, noFill, stroke, strokeWeight
  */
 
-let dvdImage;
+// Content behind double slashes is a comment. Use it for plain English notes,
+// or for code that you want to temporarily disable.
 
 function setup(){
-  createCanvas(800, 600);
-  // We only want to load the logo once.
-  dvdImage = loadImage("https://cdn.glitch.com/eaea72a4-ac6d-4777-b76e-f37d75959aa5%2Fdvd.jpeg?1515761833387");
+  // Code here runs only once
+  createCanvas(800, 600)
 }
 
 function draw(){
-  background(220);
-  // Draw the logo at the new position.
-  image(dvdImage, 50, 50, 200, 150);
+  // Code here runs continuously
+  background(220)
+
+  // ellipse(50, 50, 50, 50)
+
 }
