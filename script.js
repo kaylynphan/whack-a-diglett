@@ -46,7 +46,11 @@ function draw(){
   circle(340,80,33);
   
   //mitsubishi logo
-  triangle(80,130,)
+  triangle(80,160,30,247,130,247);
+  stroke('rgb(220,220,220)');
+  fill('rgb(220,220,220)');
+  triangle()
+  
   
   
   
