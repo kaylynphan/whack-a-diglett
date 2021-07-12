@@ -16,19 +16,18 @@ function draw(){
   background(220);
   stroke('rgb(0,255,0)');
   fill('rgb(0,255,0)');
-  square(50,50,80);
+  square(30,30,100);
+  
+  stroke('rgb(242,0,0)');
+  fill('rgb(242,0,0)');
+  square(160,30,45);
+  square(210,30,45);
+  square(160,80,45);
+  square(210,80,45);
   
   
   
   
-  stroke('rgb(200,0,90)');
-  fill('rgb(200,0,90)');
-  triangle(100,200,190,200,145,200 - 90 + (90/1.71));
-  
-  stroke('rgb(200,100,0)');
-  fill('rgb(200,100,0)');
-  triangle(100,200,190,200,145,200 - 90 + (90/1.71));
-  rotate(60);
   
   
 }
