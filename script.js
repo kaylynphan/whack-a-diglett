@@ -17,7 +17,7 @@ function draw(){
   
   noFill()
   strokeWeight(5)
-  stroke(0,0,0)
+  stroke(37, 187, 217)
   
   ellipse(50, 50, 50, 50);
   rect(300, 20, 55, 55);
