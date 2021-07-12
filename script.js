@@ -13,19 +13,7 @@ function setup(){
 
 function draw(){
   // Code here runs continuously
-  background(220);
-
-  strokeWeight(8);
-  
-  ellipse(100, 100, 80);
-  
-  noFill();
-
-  stroke(60,123,219);
-  
-  ellipse(200, 100, 80);
-  
-  strokeWeight(4);
+  triangle(100,200,110,200,105,10/1.71)
   
   
   
