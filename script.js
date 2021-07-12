@@ -1,6 +1,6 @@
 // Name any p5.js functions we use in `global` so Glitch can recognize them.
 /* global
- *    background, createCanvas, ellipse, noFill, stroke, strokeWeight
+ *    background, createCanvas, ellipse, noFill, stroke, strokeWeight, rect
  */
 
 // Content behind double slashes is a comment. Use it for plain English notes,
@@ -14,7 +14,13 @@ function setup(){
 function draw(){
   // Code here runs continuously
   background(220);
-
-  // ellipse(50, 50, 50, 50);
+  
+  noFill()
+  strokeWeight(5)
+  stroke(0,0,0)
+  
+  ellipse(50, 50, 50, 50);
+  rect(300, 20, 55, 55);
+  
 
 }
