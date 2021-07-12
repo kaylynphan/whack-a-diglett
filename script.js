@@ -8,14 +8,23 @@
 
 function setup(){
   // Code here runs only once
-  createCanvas(800, 600);
+  createCanvas(500, 300);
 }
 
 function draw(){
   // Code here runs continuously
   background(220);
-  
 
-  ellipse(50, 50, 50, 50);
+  ellipse(200, 100, 130);
+  
+  noFill();
+  strokeWeight(8);
+  stroke(60,123,219);
+  
+  ellipse(100, 100, 130);
+  
+  strokeWeight(4);
+  
+  ellipse(100, 150, 130);
   
 }
