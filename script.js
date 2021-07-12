@@ -13,7 +13,15 @@ function setup(){
 
 function draw(){
   // Code here runs continuously
-  triangle(100,200,110,200,105,10/1.71)
+  background(220);
+  stroke('rgb(0,255,0)');
+  fill('rgb(0,255,0)');
+  square(50,50,80);
+  
+  
+  stroke('rgb(200,0,130)');
+  fill('rgb(200,0,130)');
+  triangle(100,200,110,200,105,200 - (10/1.71))
   
   
   
