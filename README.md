@@ -1,4 +1,4 @@
-CSSI Day 1 - Olympic Rings
+CSSI Final Project - Collaborative Whack-a-Diglett Game
 =================
 
 Your Project
