@@ -1,25 +1,13 @@
 CSSI Final Project - Collaborative Whack-a-Diglett Game
 =================
 
-Your Project
-------------
+Created by Kaylyn Phan, Joshua Mack, and Manroop Gill for Google CSSI 2021.
 
-### ← README.md
+Whack-a-Diglett is the classic whack-a-mole game revisioned to feature the super cute appearances and sounds of Diglett and Dugtrio.
 
-That's this file, where you can tell people what your cool website does and how you built it.
+The game is multiplayer functional on local host only.
 
-### ← index.html
+Play the game on Heroku here: https://serene-beach-35171.herokuapp.com/
+Or run using Node.js on http://localhost:3000/
 
-Where you'll write the content of your website. 
 
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
