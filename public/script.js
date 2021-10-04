@@ -17,9 +17,9 @@ function preload() {
   whack.setVolume(0.009);
   diglettSound = loadSound('https://cdn.glitch.com/c130eace-6f5a-4c1f-9ec8-55327d44e593%2Fdiglett.mp3?v=1628025327190');
   diglettSound.setVolume(0.009);
-  bgMusic = loadSound('https://cdn.glitch.com/c130eace-6f5a-4c1f-9ec8-55327d44e593%2FbgMusic.mp3?v=1628109046494');
-  bgMusic.setVolume(0.001);
-  bgMusic.loop();
+  //bgMusic = loadSound('https://cdn.glitch.com/c130eace-6f5a-4c1f-9ec8-55327d44e593%2FbgMusic.mp3?v=1628109046494');
+  //bgMusic.setVolume(0.001);
+  //bgMusic.loop();
 
 }
 
